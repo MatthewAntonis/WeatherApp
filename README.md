@@ -34,7 +34,7 @@ This Weather App is a simple web application that allows users to enter the name
 ## Setup and Usage
 - Clone this repository to your web server.
 - Replace YOUR_API_KEY in the PHP script with your actual OpenWeatherMap API key.
-- Access the application through your web browser by navigating to the appropriate URL (e.g., http://yourserver/yourpath).
+- Access the application through your web browser by navigating to the appropriate URL (e.g., "http://yourserver/yourpath").
 
 ## Screenshot
 
