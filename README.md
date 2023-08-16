@@ -39,7 +39,7 @@
 ## Screenshot
 
 <p align="center">
-<img width="600" src="https://github.com/MatthewAntonis/WeatherApp/assets/122380719/c79d1e6d-ddf8-41a8-8535-c1edb5cfcafb">
+<img width="800" src="https://github.com/MatthewAntonis/WeatherApp/assets/122380719/c79d1e6d-ddf8-41a8-8535-c1edb5cfcafb">
 <p/>
   
 ## Notes: 
