@@ -1,7 +1,7 @@
 # Weather App
 ## Introduction
 
-### This Weather App is a simple web application that allows users to enter the name of a city and fetch the current weather conditions for that location. The application is built using PHP, HTML, and CSS.
+This Weather App is a simple web application that allows users to enter the name of a city and fetch the current weather conditions for that location. The application is built using PHP, HTML, and CSS.
 
 ## Features
 - Search by City Name: Users can search for the current weather conditions of a city by entering the name of the city.
