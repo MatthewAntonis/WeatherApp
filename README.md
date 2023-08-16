@@ -36,7 +36,7 @@
 - Replace YOUR_API_KEY in the PHP script with your actual OpenWeatherMap API key.
 - Access the application through your web browser by navigating to the appropriate URL (e.g., http://yourserver/yourpath).
 
-## Screenshots
+## Screenshot
 
 <p align="center">
 <img width="600" src="https://github.com/MatthewAntonis/WeatherApp/assets/122380719/c79d1e6d-ddf8-41a8-8535-c1edb5cfcafb">
