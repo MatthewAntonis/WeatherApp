@@ -37,7 +37,8 @@
                 }
                 if ($_GET['city']){
                     // Get the API data, suppress warnings using '@'
-                    $apiData = @file_get_contents("https://api.openweathermap.org/data/2.5/weather?q=".$_GET['city']."&appid=14748306ad839a185ba134c15cba3e79");
+                    // Insert your API Key here without the brackets
+                    $apiData = @file_get_contents("https://api.openweathermap.org/data/2.5/weather?q=".$_GET['city']."{InsertAPIKeyHere");
                     
                     // Check if API call was successful
                     if ($apiData === FALSE) {
